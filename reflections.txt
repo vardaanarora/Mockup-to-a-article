@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+ 
+* What new skills have you learned?
+
+Ans. I am getting better with the basics of HTML and CSS, familiarising myself with the attributes in CSS and there is always something new to learn. 
+* What has been easy?
+  
+Ans. I found CSS syntax comparatively easier to memorise and work with.
+* What has been difficult?
+
+Ans. I have only worked with the basic syntax so far so it has been easy.
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+Ans. I have used some of the strategies like:
+     	1. I used the udacity forums when i was stuck over an annoying bug i couldn't fix and Forum Mentor(Sarah) helped me along the way.
+	2. I often refer to http://www.w3schools.com/ and Udacity Frontend Nanodegree Style Guide.
+
